@@ -53,5 +53,3 @@ Based on the sample data analysis:
 * **Overall Conversion Rate:** 20%
 * **Major Bottleneck:** Identified at the **Checkout Page** with a 40% drop-off rate.
 
----
-*Created by [Your Name]*
